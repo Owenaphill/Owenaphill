@@ -4,7 +4,7 @@ I'm Owen, a programmer based in Wisconsin.
 
 I try to design and create what I can.
 
-My main tech stack is Java, Python, and C++. I like to occasionally tinker with fixing computers and networking.
+My main tech stack is Java, Python, and C++. I like to also tinker with fixing computers and networking.
 
 I've got a mix of coding projects as well as some networking projects so I hope you enjoy!
 
