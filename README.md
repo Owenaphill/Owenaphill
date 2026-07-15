@@ -6,7 +6,7 @@ I try to design and create what I can.
 
 My main tech stack is Java, Python, and C++. I like to occasionally tinker with fixing computers and networking.
 
-I've got my projects saved by separate languages, as well as a few networking projects I've worked on
+I've got a mix of coding projects as well as some networking projects so I hope you enjoy!
 
 **Fun Facts:**
 
