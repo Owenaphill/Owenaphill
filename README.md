@@ -10,10 +10,10 @@ I've got my projects saved by separate languages, as well as a few networking pr
 
 **Fun Facts:**
 
-*I have 4 cats and 2 dogs
-*My first coding language I learned was Dark Basic Pro
-*My favorite anime is Dragon Ball
-*Hobbies: video games, gym, tinkering
+* I have 4 cats and 2 dogs
+* My first coding language I learned was Dark Basic Pro
+* My favorite anime is Dragon Ball
+* Hobbies: video games, gym, tinkering
 <!--
 **Owenaphill/Owenaphill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
